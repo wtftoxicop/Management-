@@ -10,7 +10,7 @@
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  <img src="https://github.com/BANNA-XD143/AARUROBOT/blob/master/BANNA-XD143/resources/AARU.jpg">
+  <img src="https://telegra.ph//file/e4bff82ab3fbc72818adc.jpg">
 </p>
 
 ## ㅤㅤㅤ 🖤AARU ROBOT🖤
