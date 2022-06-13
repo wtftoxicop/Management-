@@ -81,7 +81,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="✗ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ​ ✗", url="https://t.me/AaRu_RoBoT?startgroup=true"),
+            text="✗ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ​ ✗", url="https://t.me/AaRu_X_RoBoT?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
