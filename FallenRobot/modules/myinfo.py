@@ -16,13 +16,13 @@ from FallenRobot import dispatcher
 
 
 edit_time = 5
-""" =======================FALLEN ROBOT====================== """
-file1 = "https://telegra.ph/file/9a85d0a873e2dd80d278d.jpg"
-file2 = "https://telegra.ph/file/9e7815284031452afa9e5.jpg"
-file3 = "https://telegra.ph/file/dcc5e003287f69acea368.jpg"
-file4 = "https://telegra.ph/file/ed1ce7fee94f46b0f671e.jpg"
-file5 = "https://telegra.ph/file/701028ce085ecfa961a36.jpg"
-""" =======================FALLEN ROBOT====================== """
+""" =======================AARU ROBOT====================== """
+file1 = "https://telegra.ph/file/89639083c2100561c7276.jpg"
+file2 = "https://telegra.ph/file/706fa0a012915a047e9b2.jpg"
+file3 = "https://telegra.ph/file/47a99076fc4cf167f420a.jpg"
+file4 = "https://telegra.ph/file/706fa0a012915a047e9b2.jpg"
+file5 = "https://telegra.ph/file/89639083c2100561c7276.jpg"
+""" =======================AARU ROBOT====================== """
 
 
 @register(pattern="/myinfo")
@@ -65,7 +65,7 @@ async def callback_query_handler(event):
   try:
     boy = event.sender_id
     PRO = await bot.get_entity(boy)
-    LILIE = "POWERED BY 𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 \n\n"
+    LILIE = "POWERED BY ❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 ° \n\n"
     LILIE += f"FIRST NAME : {PRO.first_name} \n"
     LILIE += f"LAST NAME : {PRO.last_name}\n"
     LILIE += f"YOU BOT : {PRO.bot} \n"
