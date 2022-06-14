@@ -16,13 +16,13 @@ from FallenRobot import dispatcher
 
 
 edit_time = 5
-""" =======================AARU ROBOT====================== """
-file1 = "https://telegra.ph/file/89639083c2100561c7276.jpg"
-file2 = "https://telegra.ph/file/706fa0a012915a047e9b2.jpg"
+""" =======================STAR x ROBOT====================== """
+file1 = "https://telegra.ph/file/26b5ac4684af8c68ebdce.jpg"
+file2 = "https://telegra.ph/file/26b5ac4684af8c68ebdce.jpg"
 file3 = "https://telegra.ph/file/47a99076fc4cf167f420a.jpg"
 file4 = "https://telegra.ph/file/706fa0a012915a047e9b2.jpg"
 file5 = "https://telegra.ph/file/89639083c2100561c7276.jpg"
-""" =======================AARU ROBOT====================== """
+""" =======================STAR x ROBOT====================== """
 
 
 @register(pattern="/myinfo")
@@ -65,7 +65,7 @@ async def callback_query_handler(event):
   try:
     boy = event.sender_id
     PRO = await bot.get_entity(boy)
-    LILIE = "POWERED BY ❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 ° \n\n"
+    LILIE = "POWERED BY 𝐒𝐓𝐀𝐑🇽𝐁𝐎𝐈 ° \n\n"
     LILIE += f"FIRST NAME : {PRO.first_name} \n"
     LILIE += f"LAST NAME : {PRO.last_name}\n"
     LILIE += f"YOU BOT : {PRO.bot} \n"
