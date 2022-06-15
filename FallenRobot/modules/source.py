@@ -28,7 +28,8 @@ async def repo(client, message):
                 [
                     InlineKeyboardButton(
                         "• ᴏᴡɴᴇʀ •", url="tg://user?id=5470068285"), 
-                    InlineKeyboardButton(https://github.com/Starboihacks369/STARROBOThttps://github.com/Starboihacks369/STARROBOT")
+                    InlineKeyboardButton(
+                        "• sᴏᴜʀᴄᴇ •", url="https://github.com/Starboihacks369/STARROBOT")
                 ]
             ]
         )
