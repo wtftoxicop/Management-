@@ -91,7 +91,7 @@ buttons = [
         InlineKeyboardButton(
             text="💞 ᴀʙᴏᴜᴛ ᴍᴇ​​ 💞", callback_data="fallen_"),
         InlineKeyboardButton(
-            text="🙄 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🙄", callback_data="https://telegra.ph/file/9b0455dae14d5639f936d.mp4"),
+            text="🙄 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🙄", url="https://telegra.ph/file/9b0455dae14d5639f936d.mp4"),
     ],
     [
         InlineKeyboardButton(
