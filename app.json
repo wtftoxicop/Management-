@@ -48,6 +48,11 @@
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
         "value": ""
       },
+      "HEROKU_MODE": {
+       "discription": " Enable this for your ",
+       "value": " ENABLE",
+       "required": true
+      },
       "HEROKU_APP_NAME": {
         "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
         "required": false
