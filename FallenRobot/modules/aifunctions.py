@@ -1,5 +1,5 @@
 # 🙈 Give me ⭐️ before kanging code
-# © @BANNA-XD143🌚
+# © @its_star_boi🌚
 
 import requests
 url = "https://iamai.p.rapidapi.com/ask"
@@ -29,7 +29,7 @@ async def hmm(event):
   lodu = response.json()
   result = (lodu['message']['text'])
   if "no no" in result:
-   pro = "I am fairly found and I was made by @anonymous_was_bot."
+   pro = "I am fairly found and I was made by @its_star_robot."
    try:
       async with telethn.action(event.chat_id, 'typing'):
            await asyncio.sleep(2)
