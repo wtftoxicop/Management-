@@ -15,7 +15,7 @@ async def repo(client, message):
         photo=ANON,
         caption=f"""**ʜᴇʏ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [𝚂𝚃𝙰𝚁✘𝙱𝙾𝙸-🇮🇳](t.me/Itz_star_robot)**
 
-**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [𝐒𝐓𝐀𝐑🇽𝐁𝐎𝐈](tg://user?id=5470068285)
+**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [𝐒𝐓𝐀𝐑🇽𝐁𝐎𝐈](tg://user?id=5463205082)
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
 **» ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{o}` 
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
@@ -27,7 +27,7 @@ async def repo(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "• ᴏᴡɴᴇʀ •", url="tg://user?id=5470068285"), 
+                        "• ᴏᴡɴᴇʀ •", url="tg://user?id=5463205082"), 
                     InlineKeyboardButton(
                         "• sᴏᴜʀᴄᴇ •", url="https://github.com/Starboihacks369/STARROBOT")
                 ]
