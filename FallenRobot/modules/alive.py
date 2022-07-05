@@ -18,11 +18,11 @@ PHOTO = [
 @register(pattern=("/alive"))
 async def awake(event):
   TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ 𝚂𝚃𝙰𝚁 ✘ 𝚁𝙾𝙱𝙾𝚃​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-  TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝐒𝐓𝐀𝐑🇽𝐁𝐎𝐈](https://t.me/itz_star_boi)** \n\n"
+  TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝐒𝐓𝐀𝐑🇽𝐁𝐎𝐈](https://t.me/its_star_boi)** \n\n"
   TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n\n"
   TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
   TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
-  BUTTON = [[Button.url("ʜᴇʟᴘ​", "https://t.me/Itz_star_robot?starthttps://t.me/Best_FriendsFor_Everhttps://t.me/Best_FriendsFor_Ever")]]
+  BUTTON = [[Button.url("ʜᴇʟᴘ​", "https://t.me/Itz_star_robot?start")("sᴜᴘᴘᴏʀᴛ ❤","https://t.me/Best_FriendsFor_Ever")]]
   ran = random.choice(PHOTO)
   await tbot.send_file(event.chat_id, ran, caption=TEXT,  buttons=BUTTON)
 
