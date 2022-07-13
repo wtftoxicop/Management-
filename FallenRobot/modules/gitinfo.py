@@ -1,4 +1,4 @@
-# © @AnonymousBoy1025
+# © @starboihacks369
 import aiohttp
 from pyrogram import filters
 from FallenRobot import pbot
