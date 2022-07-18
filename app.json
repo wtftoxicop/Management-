@@ -182,6 +182,11 @@
          "required": false,
          "value": "CAACAgUAAxkBAAEDafNhq5Z0DegqVzauwSighMw5cPWp8QACVgQAAuUG0FRXfCEuBziNzCIE"
       },
+      "START_IMG": {
+      "description": "Telegraph link of the image which will be shown at start command.",
+         "required": false,
+         "value": ""
+   },      
       "WALL_API": {
          "description": "Required for wallpaper. Get your's from https://wall.alphacoders.com/",
          "required": false,
