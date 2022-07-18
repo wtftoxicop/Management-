@@ -22,7 +22,12 @@ async def awake(event):
   TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n\n"
   TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
   TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
-  BUTTON = [[Button.url("ʜᴇʟᴘ​", "https://t.me/Itz_star_robot?start")("sᴜᴘᴘᴏʀᴛ ❤","https://t.me/Best_FriendsFor_Ever")]]
+  BUTTON = [
+        [
+            Button.url("ʜᴇʟᴘ​", f"https://t.me/itz_star_robot?start=help"),
+            Button.url("sᴜᴘᴘᴏʀᴛ​", f"https://t.me/Best_FriendsFor_Ever"),
+        ]
+    ]
   ran = random.choice(PHOTO)
   await tbot.send_file(event.chat_id, ran, caption=TEXT,  buttons=BUTTON)
 
