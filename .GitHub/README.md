@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/Starboihacks369/STARROBOT/stargazers"><img src="https://img.shields.io/github/stars/starboihacks369/STARROBOT?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/Starboihacks369/STARROBOT"><img src="https://img.shields.io/github/stars/starboihacks369/STARROBOT?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/Starboihacks369/STARROBOT"> <img src="https://img.shields.io/github/repo-size/starboihacks369/STARROBOT?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
