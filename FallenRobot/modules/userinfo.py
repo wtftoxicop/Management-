@@ -521,13 +521,6 @@ __help__ = """
  ❍ /id*:* get the current group id. If used by replying to a message, gets that user's id.
  ❍ /gifid*:* reply to a gif to me to tell you its file ID.
 
-*Self added information:* 
- ❍ /setme <text>*:* will set your info
- ❍ /me*:* will get your or another user's info.
-*Examples:* 💡
- ➩ /setme I am a wolf.
- ➩ /me @username(defaults to yours if no user specified)
-
 *Information others add on you:* 
  ❍ /bio*:* will get your or another user's bio. This cannot be set by yourself.
  ❍ /setbio <text>*:* while replying, will save another user's bio 
@@ -548,8 +541,8 @@ ID_HANDLER = DisableAbleCommandHandler("id", get_id)
 GIFID_HANDLER = DisableAbleCommandHandler("gifid", gifid)
 INFO_HANDLER = DisableAbleCommandHandler(("info", "book"), info)
 
-SET_ABOUT_HANDLER = DisableAbleCommandHandler("setme", set_about_me)
-GET_ABOUT_HANDLER = DisableAbleCommandHandler("me", about_me)
+SET_ABOUT_HANDLER = DisableAbleCommandHandler("randisetme", set_about_me)
+GET_ABOUT_HANDLER = DisableAbleCommandHandler("randi", about_me)
 
 dispatcher.add_handler(STATS_HANDLER)
 dispatcher.add_handler(ID_HANDLER)
@@ -561,7 +554,7 @@ dispatcher.add_handler(SET_ABOUT_HANDLER)
 dispatcher.add_handler(GET_ABOUT_HANDLER)
 
 __mod_name__ = "Iɴꜰᴏs"
-__command_list__ = ["setbio", "bio", "setme", "me", "info"]
+__command_list__ = ["setbio", "bio", "randisetme", "randi", "info"]
 __handlers__ = [
     ID_HANDLER,
     GIFID_HANDLER,
