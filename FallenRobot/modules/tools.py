@@ -1,4 +1,4 @@
-# © @AnonymousBoy1025
+# © @Starboihacks369
 
 __mod_name__ = "Tᴏᴏʟs"
 
