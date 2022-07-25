@@ -10,7 +10,7 @@
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  <img src="https://telegra.ph//file/e4bff82ab3fbc72818adc.jpg">
+  <img src="https://telegra.ph/file/26b5ac4684af8c68ebdce.jpg">
 </p>
 
 ##ㅤ🖤 𝐒𝐓𝐀𝐑🇽𝐑𝐎𝐁𝐎𝐓 🖤
