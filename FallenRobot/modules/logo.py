@@ -284,7 +284,7 @@ async def lego(event):
     await event.reply(f'ғʟᴏᴏᴅᴡᴀɪᴛ ᴇʀʀᴏʀ, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @Best_FriendsFor_Ever')
 
 
-__mod_name__ = "Lᴏɢᴏ​"
+__mod_name__ = "©️ʟᴏɢᴏ"
 
 __help__ = """
 Star X Robot can create some beautiful and attractive logo for your profile pics.
