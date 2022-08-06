@@ -871,4 +871,4 @@ __help__ = """
  - /dva: Sends Random D.VA source Images.
 """
 
-__mod_name__ = "Nsғᴡ"
+__mod_name__ = "💻ɴsғᴡ"
