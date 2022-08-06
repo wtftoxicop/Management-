@@ -75,7 +75,7 @@ async def _(event):
     await kontol.delete()
     os.remove(file)
     os.remove(ik)
-__mod_name__ = "Tɪɴʏ"
+__mod_name__ = "◼️▪️ᴛɪɴʏ"
 __help__ = """
 ❍ /tiny*:* reply a sticker and see magic
 """
