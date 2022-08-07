@@ -48,7 +48,7 @@ async def handler(event):
 
     msg = await event.reply("```Memifying this image! ✊🏻 ```")
 
-    if "AnonymousBoy1025" in Credit:
+    if "starboihacks369" in Credit:
        pass
 
     else: 
@@ -213,4 +213,4 @@ async def drawText(image_path, text):
     return webp_file
 
 
-__mod_name__ = "🤏ᴍᴍғ"
+__mod_name__ = "🤏 ᴍᴍғ"
