@@ -51,7 +51,7 @@ sᴜᴄᴄᴇssғᴜʟʟʏ ᴡʀɪᴛᴛᴇɴ ᴛᴇxᴛ 💘
         )
 
 
-__mod_name__ = "WʀɪᴛᴇTᴏᴏʟ"
+__mod_name__ = "📝 ᴡʀɪᴛᴇᴛᴏᴏʟ"
 
 __help__ = """
  Writes the given text on white page with a pen 🖊
